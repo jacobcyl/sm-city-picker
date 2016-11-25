@@ -1,7 +1,7 @@
 # sm-city-picker
 -- 基于MSUI开发的省市二级滚轮联动插件
 
-> 效果图
+> 效果图  
 ![screen-capture](https://github.com/jacobcyl/sm-city-picker/blob/master/screen-capture.gif)
 
 -- 用法
