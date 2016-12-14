@@ -1,10 +1,10 @@
 # sm-city-picker
--- 基于MSUI开发的省市二级滚轮联动插件
+### 基于MSUI开发的省市二级滚轮联动插件
 
 > 效果图  
 ![screen-capture](https://github.com/jacobcyl/sm-city-picker/blob/master/screen-capture.gif)
 
--- 用法
+### 用法
 ```html
 <link rel="stylesheet" href="//g.alicdn.com/msui/sm/0.6.2/css/sm.min.css">
 <script type='text/javascript' src='//g.alicdn.com/sj/lib/zepto/zepto.min.js' charset='utf-8'></script>
